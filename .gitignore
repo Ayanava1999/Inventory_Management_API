@@ -1,0 +1,6 @@
+# Ignore node_modules folde
+/node_modules/
+
+
+# Ignore .env
+.env
